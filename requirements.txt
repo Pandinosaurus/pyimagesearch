@@ -68,3 +68,7 @@ urllib3==1.25.7
 Werkzeug==0.16.0
 wrapt==1.11.2
 zmq==0.0.0
+
+apriltag~=0.0.16
+easyocr~=1.1.9
+textblob~=0.15.3
