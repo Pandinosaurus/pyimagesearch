@@ -15,7 +15,7 @@ import cv2
 
 # Construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()
-ap.add_argument("-c", "--cascade", type=str, default="haarcascade_frontalface_default.xml",
+ap.add_argument("-c", "--cascade", type=str, default="cascades/haarcascade_frontalface_default.xml",
                 help="Path to haar cascade face detector .xml file")
 args = vars(ap.parse_args())
 
