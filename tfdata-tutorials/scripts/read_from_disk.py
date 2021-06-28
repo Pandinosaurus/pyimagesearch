@@ -1,7 +1,7 @@
 # -----------------------------
 #   USAGE
 # -----------------------------
-# python read_from_disk.py --dataset fruits
+# python read_from_disk.py --dataset ../datasets/fruits
 
 # -----------------------------
 #   IMPORTS
