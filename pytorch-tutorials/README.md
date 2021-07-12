@@ -1,0 +1,2 @@
+# Pytorch tutorials with Python and Deep Learning
+- Repository for [Intro to PyTorch: Training your first neural network using PyTorch](https://www.pyimagesearch.com/2021/07/12/intro-to-pytorch-training-your-first-neural-network-using-pytorch/) tutorial.
