@@ -1,4 +1,5 @@
 # Pytorch tutorials with Python and Deep Learning
 - Repository for [Intro to PyTorch: Training your first neural network using PyTorch](https://www.pyimagesearch.com/2021/07/12/intro-to-pytorch-training-your-first-neural-network-using-pytorch/) tutorial.
 - Repository for [PyTorch: Training your first Convolutional Neural Network (CNN)](https://www.pyimagesearch.com/2021/07/19/pytorch-training-your-first-convolutional-neural-network-cnn/) tutorial.
-- Repository for [PyTorch image classification with pre-trained networks](https://www.pyimagesearch.com/2021/07/26/pytorch-image-classification-with-pre-trained-networks/) tutorial
+- Repository for [PyTorch image classification with pre-trained networks](https://www.pyimagesearch.com/2021/07/26/pytorch-image-classification-with-pre-trained-networks/) tutorial.
+- Repository for [PyTorch object detection with pre-trained networks](https://www.pyimagesearch.com/2021/08/02/pytorch-object-detection-with-pre-trained-networks/) tutorial.
